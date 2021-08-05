@@ -1,7 +1,8 @@
 /*
 Linear Search(Sequential Search):
 
-
+Time complexity: O(n), in the worst case we need to scan the complete array. 
+Space complexity: O(1).
 */
 #include<bits/stdc++.h>
 using namespace std;
@@ -33,8 +34,7 @@ int main(){
         cout<<"Your number is not found."<<endl;
     }else{
         cout<<"The number you are query for in being indexes is "<<searchNumber(arr,number,n); 
-    }
-     
+    } 
     cout<<endl;
     return 0;
 }
