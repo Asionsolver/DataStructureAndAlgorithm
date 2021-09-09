@@ -3,5 +3,6 @@
         "*.cc ": "cpp",
         "ostream": "cpp",
         "iostream": "cpp"
-    }
+    },
+    "terminal.integrated.defaultProfile.windows": "Ubuntu (WSL)"
 }
