@@ -4,5 +4,5 @@
         "ostream": "cpp",
         "iostream": "cpp"
     },
-    "terminal.integrated.defaultProfile.windows": "Ubuntu (WSL)"
+    "terminal.integrated.defaultProfile.windows": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe (migrated)"
 }
