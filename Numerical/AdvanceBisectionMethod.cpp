@@ -5,7 +5,7 @@ using namespace std;
 double f(double x);
 double f(double x)
 {
-    double a = pow(x, 3) - x - 4.0;
+    double a = pow(x, 3) - 2 * x - 5.0;
     return a;
 }
 int main()

@@ -44,7 +44,7 @@ void regulaFalsi(double a, double b)
 int main()
 {
     // Initial values assumed
-    double a = 3, b = 4;
+    double a = 2, b = 3;
     regulaFalsi(a, b);
     return 0;
 }
